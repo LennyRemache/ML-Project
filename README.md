@@ -1,5 +1,7 @@
 # Regression Machine Learning project
  
+DATASETS NOT INCLUDED DUE TO THEIR LARGE FILE SIZE 
+ 
 # Preamble 
 In 2006, Netflix released over 100 million ratings from over 400,000 users on over 17,000 
 films. Whoever improved the RMSE of Netflix’s “Cinematch” algorithm by 10% within 5 years received 
